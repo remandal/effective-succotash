@@ -11,7 +11,7 @@ remote_conn.send(“\n”)
 remote_conn.send(“\n”)
 remote_conn.send(“show version\n”)
 time.sleep(2)
-
+#
 
 def my_ssh(ip, o):
 
